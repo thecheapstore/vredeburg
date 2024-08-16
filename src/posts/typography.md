@@ -3,10 +3,8 @@ title: "Coco Soul"
 date: 2024-08-17T02:09
 thumb: "coco-soul.jpg"
 tags: 
-    - health
+    - hair
     - oil
-	- hair
-    - skin
 ---
 
 # About Coco Soul
