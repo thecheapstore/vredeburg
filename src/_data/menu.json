@@ -4,12 +4,12 @@
         "url": "/about"
     },
     {
-        "label": "Tag List",
-        "url": "/tags"
+        "label": "Telegram",
+        "url": "telegram.me/thecheapstore1"
     },
     {
-        "label": "GitHub",
-        "url": "https://github.com/daflh/vredeburg",
+        "label": "Pinterest",
+        "url": "https://in.pinterest.com/yourtcs/",
         "newTab": true
     }
 ]
