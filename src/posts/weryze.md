@@ -2,7 +2,7 @@
 title: "WeRyze"
 description: "RYZE nicotine gums are not for use by minors, non-users of tobacco products, and those who are allergic to nicotine. Information provided...."
 date: 2024-08-17T04:40
-thumb: "ganga.webp"
+thumb: "weryze.jpg"
 tags: 
     - health
     - Apparel
