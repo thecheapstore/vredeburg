@@ -5,8 +5,6 @@ thumb: "coco-soul.jpg"
 tags: 
     - health
     - oil
-	- hair
-	- skin
 ---
 
 # About Coco Soul
