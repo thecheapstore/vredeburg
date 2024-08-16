@@ -1,5 +1,6 @@
 ---
 title: "Isadora Life"
+description: "Wrap in 1 Minute Saree, is our first product where we have worked tirelessly for months together to retain the beauty and elegance of..."
 date: 2024-08-17T04:00
 thumb: "isadora.webp"
 tags: 
