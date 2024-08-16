@@ -42,6 +42,6 @@ Saree brings out the absolute feminine power and grace in every woman who adorns
 Wrap in 1 Minute Saree, is our first product where we have worked tirelessly for months together to retain the beauty and elegance of traditional saree while making it quick and easy to wear.
 With our Wrap in 1 Minute Saree collection, we hope to make saree your go-to-attire for every occasion you wish to stand out or make your personality felt.
 
-## Begin your health care journey!
+## Begin your fashion journey!
 
 Click on [Sign Up](https://www.cuelinks.com/campaigns/isadora-life-affiliate-program#7498 "Sign Up Link") to begin with.
