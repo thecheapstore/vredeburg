@@ -16,4 +16,4 @@ Watcho app is a great proposition for unique and original web series, short film
 
 ## Begin your binge watching journey!
 
-Click on [Sign Up](https://www.cuelinks.com/campaigns/watcho-1-affiliate-program#5117 "Sign Up Link") to begin with.
+Click on [Sign Up](https://clnk.in/u1Yd "Sign Up Link") to begin with.

@@ -12,4 +12,4 @@ RYZE nicotine gums are not for use by minors, non-users of tobacco products, and
 
 ## Begin your health journey!
 
-Click on [Sign Up](https://www.cuelinks.com/campaigns/weryze-affiliate-program#7499 "Sign Up Link") to begin with.
+Click on [Sign Up](https://clnk.in/u1Yc "Sign Up Link") to begin with.

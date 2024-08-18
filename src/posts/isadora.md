@@ -45,4 +45,4 @@ With our Wrap in 1 Minute Saree collection, we hope to make saree your go-to-att
 
 ## Begin your fashion journey!
 
-Click on [Sign Up](https://www.cuelinks.com/campaigns/isadora-life-affiliate-program#7498 "Sign Up Link") to begin with.
+Click on [Sign Up](https://clnk.in/u1Ya "Sign Up Link") to begin with.

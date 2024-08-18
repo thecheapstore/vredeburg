@@ -24,4 +24,4 @@ All our formulations have been developed in France, after two gruelling years of
 
 ## Begin your healthy journey!
 
-Click on [Sign Up](https://www.cuelinks.com/campaigns/nature-derma-affiliate-program#7500 "Sign Up Link") to begin with.
+Click on [Sign Up](https://clnk.in/u1Ye "Sign Up Link") to begin with.

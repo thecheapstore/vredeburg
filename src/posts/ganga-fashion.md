@@ -16,4 +16,4 @@ As our family continues to grow at Ganga Fashions, we constantly strive to creat
 
 ## Begin your fashion journey!
 
-Click on [Sign Up](https://www.cuelinks.com/campaigns/ganga-fashions-affiliate-program#5599 "Sign Up Link") to begin with.
+Click on [Sign Up](https://clnk.in/u1Yb "Sign Up Link") to begin with.

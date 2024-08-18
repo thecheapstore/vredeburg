@@ -29,4 +29,4 @@ Fall in love with your skin all over again! Coco Soul boasts of a nourishing and
 
 ## Begin your health care journey!
 
-Click on [Sign Up](https://www.cuelinks.com/campaigns/coco-soul-affiliate-program#4295 "Sign Up Link") to begin with.
+Click on [Sign Up](https://clnk.in/u1X9 "Sign Up Link") to begin with.
