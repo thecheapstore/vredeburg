@@ -1,7 +1,7 @@
 ---
 title: "Flash Deals"
 description: "Flash deals offer substantial discounts for a limited time, urging quick decisions to secure the ultimate savings."
-date: 2024-08-17T05:30
+date: 2024-08-17T01:10
 thumb: "flash-deals.jpg"
 tags: 
     - deals
@@ -10,9 +10,9 @@ tags:
 
 These are flashing deals lited below, valid for limited period of time. These deals are from all e-commerce website like Ajio, Amazon, Flipkart, Myntra etc. Not only fashion but all kinds of deals like fashion, electronic, appliances, accesoried, jwellery & all.
 
-Click on Links below to start shopping & save some money doing it...
+Click on Links below to start shopping & save some money doing it..
 
-<img src="https://via.placeholder.com/1200x400" alt="Example Banner" class="w-full h-auto mb-4 rounded-lg shadow-lg">
+<img src="flash-deals.jpg" alt="Flash Deals Banner" class="w-full h-auto mb-4 rounded-lg shadow-lg">
 
 [Widest Trends Collection on Ajio for Men & Women Under ₹699](https://ajiio.in/QN6JKu3)
 
