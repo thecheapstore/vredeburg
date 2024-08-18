@@ -12,7 +12,7 @@ These are flashing deals lited below, valid for limited period of time. These de
 
 Click on Links below to start shopping & save some money doing it..
 
-<img src="flash-deals.jpg" alt="Flash Deals Banner" class="w-full h-auto mb-4 rounded-lg shadow-lg">
+<img src="src/posts/img/flash-deals.jpg" alt="Flash Deals Banner" class="w-full h-auto mb-4 rounded-lg shadow-lg">
 
 [Widest Trends Collection on Ajio for Men & Women Under ₹699](https://ajiio.in/QN6JKu3)
 
