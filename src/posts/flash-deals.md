@@ -12,6 +12,8 @@ These are flashing deals lited below, valid for limited period of time. These de
 
 Click on Links below to start shopping & save some money doing it...
 
+<img src="https://via.placeholder.com/1200x400" alt="Example Banner" class="w-full h-auto mb-4 rounded-lg shadow-lg">
+
 [Widest Trends Collection on Ajio for Men & Women Under ₹699](https://ajiio.in/QN6JKu3)
 
 [Waterproof Backpack Covers on Flipkart Under @ ₹399](https://fktr.in/2lVAeye)
