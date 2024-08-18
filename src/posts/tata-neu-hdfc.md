@@ -27,9 +27,12 @@ Get 12 free airport lounge access (8 domestic + 4 International) per annum on Ne
 
 ### OTHER AMAZING OFFERS
 
-> 1% fuel surcharge waiver at all fuel stations across India on transaction of Rs 400 - Rs 5,000. > > Max. waiver of Rs 250 / 500 per statement cycle for Plus/Infinity
-> Leverage revolving credit facilities at nominal interest rates
-> Get zero lost card liability waivers on fraudulent transactions and Credit Card loss, upon prompt reporting
+<ul class="list-disc pl-5">
+  <li>1% fuel surcharge waiver at all fuel stations across India on transaction of Rs 400 - Rs 5,000.</li>
+  <li>Max. waiver of Rs 250 / 500 per statement cycle for Plus/Infinity</li>
+  <li>Leverage revolving credit facilities at nominal interest rates</li>
+  <li>Get zero lost card liability waivers on fraudulent transactions and Credit Card loss, upon prompt reporting</li>
+</ul>
 
 ### FEES AND LIST OF CHARGES
 
