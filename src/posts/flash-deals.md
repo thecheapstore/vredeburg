@@ -18,7 +18,7 @@ Click on [Follow](https://www.instagram.com/tcs.offers/ "Follow Link") to follow
 
 ## Below are your flashing deals :
 
-<img src="https://asset22.ckassets.com/resources/image/staticpage_images/Flash%20New12-1723812496.png" alt="Description" class="w-48 h-48 rounded-lg shadow-lg">
+<img src="https://asset22.ckassets.com/resources/image/staticpage_images/Flash%20New12-1723812496.png" alt="Description" class="w-20 h-20 rounded-lg shadow-lg">
 
 
 Click on [Sign Up](https://clnk.in/u1Yj "Sign Up Link") to begin with.
