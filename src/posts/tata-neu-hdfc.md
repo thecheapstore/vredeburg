@@ -20,10 +20,13 @@ Click on [Follow](https://www.instagram.com/tcs.offers/ "Follow Link") to follow
 
 ### WHY SHOULD YOUR FRIENDS & FAMILY APPLY FOR TATA NEU HDFC BANK CREDIT CARD
 
-You get 7% money back as tata neu coins (2% due to the card + 5% on TataNeu app) for all Tata brands like BigBasket, Air Asia, Tata 1mg, Croma, TataCliQ, Westside, Titan, Tanishq, etc. Applicable for transactions done on TataNeu app/website and registering for Tata NeuPass
+<ul class="list-disc pl-5">
+<>liYou get 7% money back as tata neu coins (2% due to the card + 5% on TataNeu app) for all Tata brands like BigBasket, Air Asia, Tata 1mg, Croma, TataCliQ, Westside, Titan, Tanishq, etc.</li>
+<li>Applicable for transactions done on TataNeu app/website and registering for Tata NeuPass
 Upto 1.5% savings on all UPI spends via Tata Neu App using NeuCard (maximum of Rs 500 per month)
 Get 12 free airport lounge access (8 domestic + 4 International) per annum on NeuCard Infinity
-4 Domestic lounge access on NeuCard Plus
+4 Domestic lounge access on NeuCard Plus</li>
+</ul>
 
 ### OTHER AMAZING OFFERS
 
@@ -36,20 +39,28 @@ Get 12 free airport lounge access (8 domestic + 4 International) per annum on Ne
 
 ### FEES AND LIST OF CHARGES
 
-Joining Fees: Free for limited time only
-Annual Fees: NeuCard Infinity - Rs 1499 + Taxes
-Annual Fees: NeuCard Plus - Rs 499 + Taxes
+<ul class="list-disc pl-5">
+<li>Joining Fees: Free for limited time only</li>
+<li>Annual Fees: NeuCard Infinity - Rs 1499 + Taxes</li>
+<li>Annual Fees: NeuCard Plus - Rs 499 + Taxes</li>
+</ul>
 
 ### ELIGIBILITY CRITERIA
-Required Age: 21-65 years
-Employment status: Salaried or Self-Employed
-Minimum Income: Rs 25,000 per month (Salaried)
-Minimum Income: Rs 6 lakhs per annum (Self-Employed)
+
+<ul class="list-disc pl-5">
+<li>Required Age: 21-65 years</li>
+<li>Employment status: Salaried or Self-Employed</li>
+<li>Minimum Income: Rs 25,000 per month (Salaried)</li>
+<li>Minimum Income: Rs 6 lakhs per annum (Self-Employed)</li>
+</ul>
 
 ### DOCUMENTS NEEDED
-Address Proof - Aadhaar, Passport, Latest utility bills
-ID proof - PAN, Voter ID, Passport
-Income proof - Bank Statement, Salary Slips
+
+<ul class="list-disc pl-5">
+<li>Address Proof - Aadhaar, Passport, Latest utility bills</li>
+<li>ID proof - PAN, Voter ID, Passport</li>
+<li>Income proof - Bank Statement, Salary Slips</li>
+</ul>
 
 ## Begin your financial journey!
 

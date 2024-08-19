@@ -20,9 +20,11 @@ Click on [Follow](https://www.instagram.com/tcs.offers/ "Follow Link") to follow
 
 ### WHY SHOULD YOUR FRIENDS & FAMILY APPLY FOR SBI CASHBACK CARD
 
-5% Cashback on Online spends and 1% Cashback on Offline Spends
-Cashback is capped at Rs 5000 per month combined for both Online & Offline spends
-Annual fee waiver on annual spends of Rs 2,00,000 or more
+<ul class="list-disc pl-5">
+<li>5% Cashback on Online spends and 1% Cashback on Offline Spends</li>
+<li>Cashback is capped at Rs 5000 per month combined for both Online & Offline spends</li>
+<li>Annual fee waiver on annual spends of Rs 2,00,000 or more</li>
+</ul>
 
 ### MORE FEATURES OF THE CARD
 
@@ -34,25 +36,34 @@ Annual fee waiver on annual spends of Rs 2,00,000 or more
 </ul>
 
 ### ELIGIBILITY CRITERIA
-Employment status: Salaried or Self-Employed
-Income: Rs 30,000 per month
-Required Age: 21-60 years
-Credit Score - 650+
-New to credit - Only for Salaried
-Credit Card holders are preferred
-No delay payments in last 12 months
-Card Holders should be an Indian Citizens or a Non Resident Indian
+
+<ul class="list-disc pl-5">
+<li>Employment status: Salaried or Self-Employed</li>
+<li>Income: Rs 30,000 per month</li>
+<li>Required Age: 21-60 years</li>
+<li>Credit Score - 650+</li>
+<li>New to credit - Only for Salaried</li>
+<li>Credit Card holders are preferred</li>
+<li>No delay payments in last 12 months</li>
+<li>Card Holders should be an Indian Citizens or a Non Resident Indian</li>
+</ul>
 
 ### DOCUMENTS NEEDED
-ID proof
-Address proof
-Income Proof
-PAN Card/Form 60
+
+<ul class="list-disc pl-5">
+<LI>ID proof</li>
+<li>Address proof</li>
+<li>Income Proof</li>
+<li>PAN Card/Form 60</li>
+</ul>
 
 ### FEES AND LIST OF CHARGES
-Joining Fees: Rs 999 + GST
-Annual Fees: Nil for First year, Rs 999 + GST - Second year onwards
-Annual Fees will be waived on annual spends of Rs 2 Lacs
+
+<ul class="list-disc pl-5">
+<li>Joining Fees: Rs 999 + GST</li>
+<li>Annual Fees: Nil for First year, Rs 999 + GST - Second year onwards</li>
+<li>Annual Fees will be waived on annual spends of Rs 2 Lacs</li>
+</ul>
 
 ## Begin your financial journey!
 
