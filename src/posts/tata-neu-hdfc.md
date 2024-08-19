@@ -21,7 +21,7 @@ Click on [Follow](https://www.instagram.com/tcs.offers/ "Follow Link") to follow
 ### WHY SHOULD YOUR FRIENDS & FAMILY APPLY FOR TATA NEU HDFC BANK CREDIT CARD
 
 <ul class="list-disc pl-5">
-<>liYou get 7% money back as tata neu coins (2% due to the card + 5% on TataNeu app) for all Tata brands like BigBasket, Air Asia, Tata 1mg, Croma, TataCliQ, Westside, Titan, Tanishq, etc.</li>
+<li>You get 7% money back as tata neu coins (2% due to the card + 5% on TataNeu app) for all Tata brands like BigBasket, Air Asia, Tata 1mg, Croma, TataCliQ, Westside, Titan, Tanishq, etc.</li>
 <li>Applicable for transactions done on TataNeu app/website and registering for Tata NeuPass
 Upto 1.5% savings on all UPI spends via Tata Neu App using NeuCard (maximum of Rs 500 per month)
 Get 12 free airport lounge access (8 domestic + 4 International) per annum on NeuCard Infinity
