@@ -68,6 +68,11 @@ __Limited Period Offer Hurry up!!__
 - Enter Your Billing / Shipping Address
 - Make the Payment
 
+## HOW TO GET THIS AMAZING DEAL
+- Current Membership Price: Rs 1299
+- Use Code LIMITED400: Rs 400 Off
+- Pay via Bajaj Pay: Additional Rs 125 Off
+
 > ## Discount Coupon Code
 >> LIMITED400
 
