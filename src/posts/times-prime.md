@@ -2,7 +2,7 @@
 title: "Flat Rs.400 Off On Times Prime Membership"
 description: "The best time to buy!! 1 YEAR of Disney+Hotstar & SonyLIV subscriptions, New Launches, Free Gifts, 40+ benefits & more. Limited time offer. HURRY!"
 date: 2024-08-23T08:20
-thumb: "times-prime.webp"
+thumb: "times-prime.png"
 tags: 
     - deals
     - discount
@@ -21,23 +21,41 @@ Click on [Follow](https://www.instagram.com/tcs.offers/ "Follow Link") to follow
 **Membership benefit includes:-**
 
 12 (6+6) Months Disney Hotstar Premium (worth Rs.900)
+
 12 (6+6) months SonyLiv Subscription (worth Rs.1398)
+
 3 Months Discovery+ (Worth Rs.249)
+
 3 months MX Gold Subscription (worth Rs.299)
+
 3 months EROS Now Subscription (worth Rs.400)
+
 12 months Lenskart Gold Membership (worth Rs.600)
+
 Get Rs.1000 off on Reliance Digital
+
 100GB of GoogleOne for 6 months (worth Rs.780)
+
 20% off on UBER Premier (worth Rs.1800)
+
 3 months eazydiner prime membership (worth Rs.1095)
+
 6 months UC plus membership(worth Rs.699)
+
 1-year Gaana+ subscription (worth Rs.399)
+
 Flat Rs.400 of on Pizza Hut
+
 3 Months Economic Times subscription (worth Rs.999)
+
 1 Year of TOI+ subscription (worth Rs.599)
+
 Flat 80% off on full body checkup with PharmEasy (worth Rs.3340)
+
 45 Days Cult Live Pass Membership (worth Rs.675)
+
 Flat 18% off on Hotel Booking on Cleartrip (worth Rs.10,000) and many more...
+
 __Limited Period Offer Hurry up!!__
 
 ## How to avail this deal?
