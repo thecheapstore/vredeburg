@@ -72,3 +72,17 @@ __Limited Period Offer Hurry up!!__
 >> LIMITED400
 
 [Click Here to begin your Times Prime Memebership](https://bitli.in/pz0z6t1)
+
+Tags :
+
+Times Prime Membership
+
+Times Prime Membership Discount
+
+Times Prime Membership Discount Code
+
+Times Prime Membership Discount Coupon Code
+
+Times Prime Membership Flat Rs. 400 Off
+
+Times Prime Membership Deals
