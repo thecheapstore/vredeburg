@@ -1,8 +1,8 @@
 ---
 title: "Best in Fashion - Flash Deals"
 description: "Flash deals offer substantial discounts for a limited time, urging quick decisions to secure the ultimate savings."
-date: 2024-08-23T06:00
-thumb: "Fashion.jpg"
+date: 2024-08-23T08:47
+thumb: "nike.jpg"
 tags: 
     - deals
     - discount
