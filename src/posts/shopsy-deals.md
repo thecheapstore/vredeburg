@@ -48,7 +48,7 @@ Click on [Follow](https://www.instagram.com/tcs.offers/ "Follow Link") to follow
 
 [Women Tops Under ₹199](https://bitli.in/Nc4Zkxs)
 
-All these links maybe valid for just 48-72 hours from the date of posting (date mentioned on the top of post). Hope these links helped you, Kindly provide your feedback on our Telegram or WhatsApp channel.
+***All these links maybe valid for just 48-72 hours from the date of posting (date mentioned on the top of post). Hope these links helped you, Kindly provide your feedback on our Telegram or WhatsApp channel.***
 
 ## Tags :
 
