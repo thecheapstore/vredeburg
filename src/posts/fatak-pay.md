@@ -28,9 +28,10 @@ Click on [Follow](https://www.instagram.com/tcs.offers/ "Follow Link") to follow
 - Apply & get your credit in minutes
 - 100% digital and secure
 
-> Bank Transfer
-> Single dashboard to track all your payments
-> Never miss any payments
+> 
+    - Bank Transfer
+    - Single dashboard to track all your payments
+    - Never miss any payments
 
 - Pay utility bills with ease!
     - A seamless and hassle-free bill payment experience.
@@ -63,4 +64,6 @@ FatakPay is for everyone! All you need is a basic smart phone, minimum KYC (Phot
 
 Complete your KYC and withdraw the amount you need, up to your limit.
 
-**[Click Here to Sign Up Now](https://bitli.in/UUS7dp0)**
+# [Click Here to Sign Up Now](https://bitli.in/UUS7dp0)
+
+## Tags :
