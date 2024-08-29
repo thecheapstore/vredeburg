@@ -65,7 +65,7 @@ FatakPay is for everyone! All you need is a basic smart phone, minimum KYC (Phot
 
 Complete your KYC and withdraw the amount you need, up to your limit.
 
-### [Click Here to Sign Up Now](https://bitli.in/UUS7dp0)
+### [Check your Eligibility Here](https://bitli.in/UUS7dp0)
 
 ## Tags :
 
