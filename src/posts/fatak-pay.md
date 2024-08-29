@@ -28,10 +28,11 @@ Click on [Follow](https://www.instagram.com/tcs.offers/ "Follow Link") to follow
 - Apply & get your credit in minutes
 - 100% digital and secure
 
-> 
-    - Bank Transfer
-    - Single dashboard to track all your payments
-    - Never miss any payments
+> Bank Transfer
+>
+> Single dashboard to track all your payments
+>
+> Never miss any payments
 
 - Pay utility bills with ease!
     - A seamless and hassle-free bill payment experience.
@@ -60,10 +61,70 @@ You can get a credit limit of up to ₹20,000. We can increase the credit (with 
 
 FatakPay is for everyone! All you need is a basic smart phone, minimum KYC (Photo ID & address proof) and a bank account.
 
-![Image](https://fatakpay.com/assets/images/others/homepage/getstartnew.svg)
+![Financial Services](https://fatakpay.com/assets/images/others/homepage/getstartnew.svg)
 
 Complete your KYC and withdraw the amount you need, up to your limit.
 
 # [Click Here to Sign Up Now](https://bitli.in/UUS7dp0)
 
 ## Tags :
+
+Best Loan Options
+
+Compare and Apply for Loans Easily
+
+Find the Best Loans and Apply Today
+
+Personal Loans
+
+Auto Loans
+
+Home Loans
+
+How to Apply for a Loan
+
+Loan Comparison Tool
+
+Benefits of Applying Online
+
+Top Loan Lenders
+
+Compare loan options
+
+Apply for personal loans
+
+Auto loan application
+
+Home loan comparison
+
+Secure loan application process
+
+Apply for loans
+
+Best loan rates
+
+Personal loan application
+
+Auto loan options
+
+Home loan comparison
+
+Top loan lenders
+
+Secure loan application
+
+Loan comparison tool
+
+Fast loan approval
+
+Online loan application
+
+Find and Apply for the Best Loans Today
+
+Top Loans: Compare and Apply Online
+
+Find the best loan options and apply easily with our comparison tool. Secure, fast, and hassle-free loan applications.
+
+Easily compare and apply for personal, auto, and home loans with our comprehensive guide and comparison tool. Get started now!
+
+Discover top loan options with our easy-to-use comparison tool. Apply for personal, auto, and home loans quickly and securely. Find the best rates now!
