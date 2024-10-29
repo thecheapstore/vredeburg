@@ -1,15 +1,17 @@
 ---
-title: "WeRyze"
-description: "RYZE nicotine gums are not for use by minors, non-users of tobacco products, and those who are allergic to nicotine. Information provided...."
-date: 2024-08-17T04:40
-thumb: "weryze.jpg"
+title: "Demo Post"
+description: "This is a demo post made by author in order to do some testing."
+date: 2024-10-30T02:55
+thumb: "electronics.jpg"
 tags: 
-    - health
-    - medical
+    - electronics
+    - essentials
 ---
 
-RYZE nicotine gums are not for use by minors, non-users of tobacco products, and those who are allergic to nicotine. Information provided on this website does not constitute medical advice. Please contact a registered medical practitioner prior to determining whether or not to use, or continue the use of, RYZE nicotine gums."
+New version of The Cheap Store is comming soon!
 
-## Begin your health journey!
+New products and layout this Diwali...
+
+## Place your Order
 
 Click on [Sign Up](https://clnk.in/u1Yc "Sign Up Link") to begin with.
