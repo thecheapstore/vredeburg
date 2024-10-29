@@ -14,4 +14,4 @@ New products and layout this Diwali...
 
 ## Place your Order
 
-Click on [Sign Up](https://clnk.in/u1Yc "Sign Up Link") to begin with.
+Click on [Place Order](https://thecheapstore-checkout.netlify.app/ "Checkout Link") to place your order with us.
