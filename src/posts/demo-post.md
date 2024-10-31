@@ -16,4 +16,7 @@ New products and layout this Diwali...
 
 Click on [Place Order](https://thecheapstore-checkout.netlify.app/ "Checkout Link") to place your order with us.
 
-<a href="https://wa.me/message/PKVHT6CB4LFMF1" target="_blank" style="display: inline-block; background-color: #38a169; color: white; font-weight: bold; padding: 10px 20px; border-radius: 9999px; text-align: center; text-decoration: none;">Checkout</a>
+<div style="text-align: center;">
+    <a href="https://thecheapstore-checkout.netlify.app/" target="_blank" style="display: inline-block; background-color: #38a169; color: white; font-weight: bold; padding: 10px 20px; border-radius: 9999px; text-align: center; text-decoration: none;">Checkout</a>
+</div>
+
