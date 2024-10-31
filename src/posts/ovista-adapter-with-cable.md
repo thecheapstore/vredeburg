@@ -10,13 +10,13 @@ tags:
 
 Upgrade your charging experience with the Ovista 45W Samsung Compatible Fast Charger, available at an affordable price of Rs. 799 with free delivery across India! This charger ensures fast charging for all Android and iOS devices, with super-fast charging specifically for Samsung models.
 
-# Ovista 45W PD Adapter with USB Type-C to Type-C Cable - Super Fast Mobile Charging Adapter (Samsung 45 Watt)
+_Ovista 45W PD Adapter with USB Type-C to Type-C Cable - Super Fast Mobile Charging Adapter (Samsung 45 Watt)_
 
-_Description:_
+__Description:__
 
 Experience the pinnacle of rapid charging with the Ovista 45W PD Adapter. Designed for efficiency and speed, this powerful adapter, paired with a high-quality USB Type-C to Type-C cable, ensures your devices are charged quickly and safely. Whether you're at home, in the office, or on the go, the Ovista adapter's compact and sleek design makes it the perfect companion for all your charging needs. Compatible with a wide range of devices, including smartphones, tablets, and laptops, it delivers optimal power without compromising on safety. Stay powered up and ready to go with the Ovista 45W PD Adapter.
 
-_Key Features:_
+__Key Features:__
 
 - Power Delivery 45W Output: Provides fast and efficient charging for a variety of devices, including smartphones, tablets, and laptops.
 - USB Type-C to Type-C Cable: High-quality cable included for seamless and reliable connectivity.
@@ -40,8 +40,3 @@ _Key Features:_
 <div style="text-align: center;">
     <a href="https://thecheapstore-checkout.netlify.app/" target="_blank" style="display: inline-block; background-color: #38a169; color: white; font-weight: bold; padding: 10px 20px; border-radius: 9999px; text-align: center; text-decoration: none;">Place Order</a>
 </div>
-
-<div style="text-align: center;">
-   ## Thank You!
-</div>
-
