@@ -16,6 +16,10 @@ __Description:__
 
 Experience the pinnacle of rapid charging with the Ovista 45W PD Adapter. Designed for efficiency and speed, this powerful adapter, paired with a high-quality USB Type-C to Type-C cable, ensures your devices are charged quickly and safely. Whether you're at home, in the office, or on the go, the Ovista adapter's compact and sleek design makes it the perfect companion for all your charging needs. Compatible with a wide range of devices, including smartphones, tablets, and laptops, it delivers optimal power without compromising on safety. Stay powered up and ready to go with the Ovista 45W PD Adapter.
 
+![Adapter Image](https://ovista.in/cdn/shop/files/Samsung25watt_720x.png?v=1723100918)
+
+![Adapter Image](https://ovista.in/cdn/shop/files/Samsung25watt_4_720x.png?v=1723100918)
+
 __Key Features:__
 
 - Power Delivery 45W Output: Provides fast and efficient charging for a variety of devices, including smartphones, tablets, and laptops.
