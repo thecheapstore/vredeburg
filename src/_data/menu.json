@@ -11,5 +11,10 @@
         "label": "Support",
         "url": "https://the-cheap-store.netlify.app/support",
         "newTab": true
+    },
+    {
+        "label": "About Us",
+        "url": "https://the-cheap-store.netlify.app",
+        "newTab": true
     }
 ]
