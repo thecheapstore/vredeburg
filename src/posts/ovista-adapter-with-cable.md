@@ -38,5 +38,5 @@ __Key Features:__
 ## Place your Order
 
 <div style="text-align: center;">
-    <a href="https://thecheapstore-checkout.netlify.app/" target="_blank" style="display: inline-block; background-color: #38a169; color: white; font-weight: bold; padding: 10px 20px; border-radius: 9999px; text-align: center; text-decoration: none;">Place Order</a>
+    <a href="https://rzp.io/rzp/ovista-adapter" target="_blank" style="display: inline-block; background-color: #38a169; color: white; font-weight: bold; padding: 10px 20px; border-radius: 9999px; text-align: center; text-decoration: none;">Place Order</a>
 </div>
