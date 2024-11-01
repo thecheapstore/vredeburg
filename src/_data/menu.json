@@ -1,15 +1,15 @@
 [
     {
-        "label": "About",
-        "url": "https://cutt.ly/thecheapstore"
+        "label": "Privacy Policy",
+        "url": "https://the-cheap-store.netlify.app/privacy-policy"
     },
     {
-        "label": "Telegram",
-        "url": "https://www.telegram.me/thecheapstore1"
+        "label": "Terms & Conditions",
+        "url": "https://the-cheap-store.netlify.app/terms-and-conditions"
     },
     {
-        "label": "Instagram",
-        "url": "https://www.instagram.com/tcs.offers/",
+        "label": "Support",
+        "url": "https://the-cheap-store.netlify.app/support",
         "newTab": true
     }
 ]
