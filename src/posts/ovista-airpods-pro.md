@@ -26,42 +26,26 @@ Get your hands on the premium Ovista Airpod Pro (TWS) at an unbeatable price of 
 
 __Technical Details__
 
-- Brand	Ovista
-- Manufacturer	‎Ovista, ovista
-- Model	‎ Ovista airpods pro
-- Model Name	 Airpods Pro
-- Model Year	‎2021
-- Product Dimensions	‎6 x 6 x 6 cm; 100 Grams
-- Item model number	
-- Special Features	‎ Touch Sensor, 15 hour battery backup
-- Mounting Hardware	‎Cable
-- Number Of Items	‎1
-- Headphones Form Factor	‎In Ear
-- Cable Feature	‎Without Cable
-- Connector Type	‎Wireless
-- Material	‎Plastic
-- Manufacturer	‎Ovista
-- Country of Origin	‎India
-- Item Weight	‎100 g
-
-__Key Features:__
-
-- Power Delivery 45W Output: Provides fast and efficient charging for a variety of devices, including smartphones, tablets, and laptops.
-- USB Type-C to Type-C Cable: High-quality cable included for seamless and reliable connectivity.
-- Super Fast Charging: Ensures rapid power delivery to compatible devices, significantly reducing charging time.
-- Compact and Portable Design: Sleek and lightweight, perfect for travel and on-the-go use.
-- Universal Compatibility: Works with a wide range of USB-C devices, offering versatile charging solutions.
-- Safety Features: Built-in safeguards protect against overcharging, overheating, and short-circuiting.
-- Durable Construction: Made with high-quality materials for long-lasting performance.
-- LED Indicator: Conveniently displays charging status.
-- Energy Efficient: Optimizes power consumption for eco-friendly usage.
-- Stylish Design: Modern and elegant, complements any setting or device.
+- Brand	: Ovista
+- Manufacturer : Ovista, ovista
+- Model	: Ovista airpods pro
+- Model Name : Airpods Pro
+- Model Year : 2021
+- Product Dimensions : 6 x 6 x 6 cm; 100 Grams
+- Special Features : Touch Sensor, 15 hour battery backup
+- Mounting Hardware	: Cable
+- Number Of Items : 1
+- Headphones Form Factor : In Ear
+- Connector Type : Wireless
+- Material : Plastic
+- Country of Origin : India
+- Item Weight : 100 g
 
 ## Before you continue
 
 - Free Delivery all over India
 - 6 months warranty included
-- Total Cost : Rs. 799/-
+- Total Cost : Rs. 1099/-
 
 ## Place your Order
 
