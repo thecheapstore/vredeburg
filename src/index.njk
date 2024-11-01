@@ -11,6 +11,51 @@ permalink: "{% if paged.number > 1 %}page/{{ paged.number }}/{% endif %}index.ht
     {% include "partials/post-grid.njk" %}
 </div>
 
+<!-- Popup Modal -->
+<div id="banner-popup" class="fixed inset-0 flex items-center justify-center bg-gray-900 bg-opacity-75 hidden z-50">
+  <div class="relative bg-white rounded-lg p-6 max-w-sm w-full text-center shadow-lg">
+    <button id="close-popup" class="absolute top-2 right-2 text-gray-500 hover:text-gray-800">
+      ✕
+    </button>
+    <img src="https://shopscape.co/images/shopscape-50-discount.png" alt="Promotional Banner" class="w-full h-auto rounded-lg mb-4">
+    <p class="text-lg font-semibold">Special Offer!</p>
+    <p class="text-sm text-gray-600">Get 20% off your first purchase!</p>
+    <button class="mt-4 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700">
+      Shop Now
+    </button>
+  </div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const popup = document.getElementById("banner-popup");
+    const closePopupButton = document.getElementById("close-popup");
+
+    // Check local storage if popup was already shown
+    const popupShown = localStorage.getItem("popupShown");
+
+    // Show popup only if not previously shown
+    if (!popupShown) {
+      popup.classList.remove("hidden");
+    }
+
+    closePopupButton.addEventListener("click", function () {
+      popup.classList.add("hidden");
+      // Set local storage item so it doesn't show again
+      localStorage.setItem("popupShown", "true");
+    });
+
+    // Optional: Close popup when clicking outside the modal content
+    popup.addEventListener("click", function (event) {
+      if (event.target === popup) {
+        popup.classList.add("hidden");
+        localStorage.setItem("popupShown", "true");
+      }
+    });
+  });
+</script>
+
+
 {% if collections.posts.length > site.paginate %}
 {% include "partials/paginator.njk" %}
 {% endif %}
