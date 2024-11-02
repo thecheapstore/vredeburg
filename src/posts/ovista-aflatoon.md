@@ -20,8 +20,6 @@ Unleash non-stop entertainment with the Ovista Aflatoon 5W Portable Bluetooth Sp
 
 ![Aflatoon Image](https://ovista.in/cdn/shop/files/BluetoothSpeaker.jpg?v=1722664260)
 
-![Aflatoon Image](https://ovista.in/cdn/shop/files/WirelessblutoothSpeaker_720x.jpg?v=1722664260)
-
 __Key Features:__
 
 - 5W Powerful Sound
@@ -35,7 +33,7 @@ __Key Features:__
 
 - Free Delivery all over India
 - 6 months warranty included
-- Total Cost : Rs. 799/-
+- Total Cost : Rs. 699/-
 
 ## Place your Order
 
