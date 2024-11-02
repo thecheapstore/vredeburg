@@ -1,5 +1,5 @@
 ---
-title: "Samsung Compatible 45W Ovista Fast Charger"
+title: "45W Ovista Fast Charger"
 description: "Upgrade your charging experience with the Ovista 45W Samsung Compatible Fast Charger."
 date: 2024-11-01T00:50
 thumb: "ovista-adapter.jpg"

@@ -45,11 +45,5 @@ __Key Features:__
     <a href="https://rzp.io/rzp/ovista-wireless-neckband" target="_blank" style="display: inline-block; background-color: #38a169; color: white; font-weight: bold; padding: 10px 20px; border-radius: 9999px; text-align: center; text-decoration: none;">Place Order</a>
 </div>
 
-<iframe 
-    src="https://about.me/abhijeetjain" 
-    width="100%" 
-    height="600px" 
-    style="border:none;"
-    allowfullscreen>
-</iframe>
+Elevate your audio experience with the Ovista Wireless Neckband. Combining exceptional sound quality, innovative features, and a user-friendly design, it’s the perfect companion for your daily adventures. Get yours today and enjoy the ultimate in wireless audio technology
 

@@ -1,5 +1,5 @@
 ---
-title: "Ovista Airpods Pro - TWS Airpods"
+title: "Ovista Airpods Pro - TWS"
 description: "Get your hands on the premium Ovista Airpod Pro (TWS) at an unbeatable price."
 date: 2024-11-01T00:50
 thumb: "airpods-pro.jpg"
