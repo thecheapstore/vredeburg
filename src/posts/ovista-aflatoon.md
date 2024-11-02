@@ -1,7 +1,7 @@
 ---
 title: "Portable Bluetooth Speaker"
 description: "Elevate your music experience with the Ovista Aflatoon Super Bass BT Speaker."
-date: 2024-11-02T23:254
+date: 2024-11-02T23:20
 thumb: "aflatoon.jpg"
 tags: 
     - electronics
