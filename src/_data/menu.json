@@ -4,6 +4,10 @@
         "url": "https://the-cheap-store.netlify.app/privacy-policy"
     },
     {
+        "label": "Categories",
+        "url": "/tags"
+    },
+    {
         "label": "Terms & Conditions",
         "url": "https://the-cheap-store.netlify.app/terms-and-conditions"
     },
