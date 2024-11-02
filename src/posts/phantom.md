@@ -1,7 +1,7 @@
 ---
 title: "Ovista Wireless Neckband"
 description: "Engineered for those who demand the best in audio performance and convenience."
-date: 899/- INR
+date: 2024-11-02T17:50
 thumb: "phantom.jpg"
 tags: 
     - electronics
@@ -44,3 +44,12 @@ __Key Features:__
 <div style="text-align: center;">
     <a href="https://rzp.io/rzp/ovista-wireless-neckband" target="_blank" style="display: inline-block; background-color: #38a169; color: white; font-weight: bold; padding: 10px 20px; border-radius: 9999px; text-align: center; text-decoration: none;">Place Order</a>
 </div>
+
+<iframe 
+    src="https://about.me/abhijeetjain" 
+    width="100%" 
+    height="600px" 
+    style="border:none;"
+    allowfullscreen>
+</iframe>
+
