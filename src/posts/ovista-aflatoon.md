@@ -27,7 +27,7 @@ __Key Features:__
 - RGB lights for immersive experience
 - Inbuilt mobile stand for hands-free streaming
 - Portable and compact design
-- Bluetooth connectivity
+- Bluetooth Connectivity
 
 ## Before you continue
 
