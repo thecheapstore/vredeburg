@@ -26,7 +26,7 @@ __Key Features:__
 - 8-hour non-stop playtime
 - RGB lights for immersive experience
 - Inbuilt mobile stand for hands-free streaming
-- Portable and compact design
+- Portable and Compact Design
 - Bluetooth Connectivity
 
 ## Before you continue
